@@ -67,10 +67,10 @@ After 'build_data.py'
 
 <a href="https://imgur.com/0Ky7SjU"><img src="https://i.imgur.com/0Ky7SjU.png" title="source: imgur.com" /></a>
 
- (1) chars: characters.. of what?
- (2) glove trimmed npz: numpy array of trimmed glove vocabs
- (3) tags: IOB tags of training data
- (4) words: words of training data
+ (1) chars: characters.. of what? <br>
+ (2) glove trimmed npz: numpy array of trimmed glove vocabs <br>
+ (3) tags: IOB tags of training data<br>
+ (4) words: words of training data<br>
 
 
 2. Train the model with
