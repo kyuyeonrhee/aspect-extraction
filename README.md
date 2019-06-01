@@ -1,5 +1,5 @@
 # Aspect extraction from product reviews with Tensorflow
-
+* Must uninstall python 3.7 and install python 3.6
 This repo has multiple sequential models for aspect extraction from product reviews.
 
 ## Task
